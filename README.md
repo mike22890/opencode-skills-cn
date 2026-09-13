@@ -35,6 +35,9 @@ A collection of Chinese-first agent skills for [OpenCode](https://opencode.ai), 
 | **masterpiece-writing** | 文档审美：README/设计文档/ADR/报告/教程的排版铁律 |
 | **literary-craft** | 文学写作：小说/散文/诗歌/对话/感官描写/亲密场景（专业克制） |
 | **mermaid-diagram-generator** | 图表生成：流程图/时序图/类图/状态图/ER图/甘特图 |
+| **research-mastery** | 搜索整理：搜索技巧/信源分级/事实核查/结构化输出 |
+| **shopping-advisor** | 购物顾问：需求澄清/对比框架/评价分析/购买时机 |
+| **life-planning** | 人生规划：五维盘点/价值观澄清/目标拆解/行动系统 |
 
 ---
 
