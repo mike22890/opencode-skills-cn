@@ -107,6 +107,12 @@ skills/<name>/
 
 ---
 
+## Related
+
+- [opencode-skills-en](https://github.com/mike22890/opencode-skills-en) — English edition
+
+---
+
 ## License
 
 MIT
