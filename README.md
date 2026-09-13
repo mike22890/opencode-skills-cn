@@ -1,6 +1,11 @@
 # OpenCode Skills CN
 
-> 中文优先的 AI Agent Skills 集合——为中文场景优化的触发词 + 12 个领域的方法论。
+![GitHub stars](https://img.shields.io/github/stars/mike22890/opencode-skills-cn?style=social)
+![License](https://img.shields.io/github/license/mike22890/opencode-skills-cn)
+![Skills](https://img.shields.io/badge/skills-15-blue)
+![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen)
+
+> 中文优先的 AI Agent Skills 集合——为中文场景优化的触发词 + 15 个领域的方法论。
 
 A collection of Chinese-first agent skills for [OpenCode](https://opencode.ai), [Claude Code](https://claude.ai/code), [Codex CLI](https://github.com/openai/codex), and any agent that supports the [Agent Skills](https://agentskills.io) standard.
 
