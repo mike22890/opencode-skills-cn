@@ -1,5 +1,34 @@
 # Changelog
 
+## v2.2.0 - 2026-09-14
+
+### Changed
+
+- **skill-creator 重写** — 489 行 → 120 行（精简 75%）
+  - 新增四层路由设计指南
+  - 新增子 skill / reference 加载表设计
+  - 新增触发词设计（pushy + 口语化）
+  - 新增发布前安全与原创性检查
+
+### Stats
+
+- Skill 数量：35
+- 全部原创
+
+---
+
+## v2.1.0 - 2026-09-14
+
+### Added
+
+- **github-workflow** — GitHub 全流程管理
+  - Release 管理（semver、changelog、tag）
+  - PR 工作流（conventional commits、squash merge）
+  - GitHub Actions 基础
+  - 隐私保护与安检
+
+---
+
 ## v2.0.3 - 2026-09-14
 
 ### Added
