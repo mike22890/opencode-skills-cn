@@ -48,8 +48,6 @@ metadata:
 | 学谁像谁 / 文风借鉴 / 大师作品 | `reference/masters.md` |
 | 写小说 / 故事 / 情节 / 人物 | `reference/techniques.md` |
 | 写文章 / 散文 / 随笔 / 评论 / 情书 / 日记 | `reference/forms.md` |
-| 亲密场景 / 情欲描写 / 感官细节 / 禁忌情感 | `reference/intimacy.md` |
-| BDSM / 虐恋 / 暴力 / 公开场合 / 姿势多样性 / 羞辱 | `reference/power.md` |
 
 ## 与其他 skill 的关系
 
