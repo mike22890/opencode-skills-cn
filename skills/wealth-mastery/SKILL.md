@@ -1,0 +1,43 @@
+---
+name: wealth-mastery
+description: 钱/投资/股票/基金/ETF/复利/经济周期/资产配置/人生规划时触发。
+version: 1.0.0
+metadata:
+  author: opencode-skills-cn
+  tags: wealth finance money investing stock economy life-planning compound-interest
+---
+
+# Wealth Mastery（财富 + 人生规划）
+
+## 何时触发
+
+关键词命中即触发：钱、金融、投资、股票、基金、ETF、债券、房地产、复利、通胀、经济、资产配置、理财、人生规划、阶段策略、该做什么。
+
+## 速记 6 条
+
+1. **先储蓄后投资**：紧急金 6-12 月 → 高息债 → 股票
+2. **复利是第八奇迹**：时间 > 金额
+3. **分散**：不要 all-in 一只 / 一个市场
+4. **长期**：5 年以上才看
+5. **通胀税**：现金贬值
+6. **不要加杠杆**：杠杆放大人性弱点
+
+## 自检清单
+
+- [ ] 有 6-12 月紧急金？
+- [ ] 投资分散（股票 + 债券 + 其他）？
+- [ ] 长期持有（5+ 年）？
+- [ ] 不追涨杀跌？
+- [ ] 不加杠杆？
+- [ ] 成本低（低费率指数基金）？
+
+## 加载 reference
+
+| 用户说 | 加载 |
+|---|---|
+| 复利 / 风险收益 / 资产类别 / 通胀 / 行为金融 | `reference/fundamentals.md` |
+| 股票 / 基金 / ETF / 资产配置 / 定投 / 估值 | `reference/investing.md` |
+| 经济周期 / 通胀 / 利率 / 货币政策 / 衰退 | `reference/economy.md` |
+| 20-30 / 30-40 / 40-50 / 50-60 / 60+ 阶段策略 | `reference/life-stages.md` |
+| 立即做 / 短期 / 中期 / 长期 / 行动 | `reference/action-plan.md` |
+| 巴菲特 / 芒格 / 达里奥 / 博多 / 霍华德 | `reference/masters.md` |
