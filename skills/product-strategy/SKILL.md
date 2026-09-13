@@ -1,9 +1,9 @@
 ---
 name: product-strategy
-description: 产品/商业/PMF/商业模式/增长/护城河/LTV/CAC/创业时触发。
+description: 产品策略与商业分析的综合框架。当需要 PMF 分析、商业模式画布、增长策略、用户研究、竞品分析、市场调研、定位策略、护城河分析、单位经济（LTV/CAC）、北极星指标、产品路线图、创业分析、商业计划书、战略决策时使用。
 version: 1.0.0
 metadata:
-  author: opencode-skills-cn
+  author: Mike
   tags: product business pmf growth strategy marketing startup moat
 ---
 
@@ -11,7 +11,7 @@ metadata:
 
 ## 何时触发
 
-关键词命中即触发：产品、商业、PMF、商业模式、增长、营销、战略、客户、用户、市场、竞争、定位、护城河、单位经济、LTV、CAC、创业、YC、融资。
+关键词命中即触发：产品、商业、PMF、商业模式、增长、营销、战略、客户、用户、市场、竞争、定位、护城河、单位经济、LTV、CAC、创业、YC、融资、变现、定价、策略。
 
 ## 速记 6 条
 
@@ -35,7 +35,7 @@ metadata:
 
 | 用户说 | 加载 |
 |---|---|
-| PMF / 商业模式画布 / Jobs-to-be-Done / 蓝海 | `reference/frameworks.md` |
-| AARRR / 病毒系数 / 留存 / 北极星指标 | `reference/growth.md` |
-| 波特五力 / 护城河 / 定位 / 战略 | `reference/strategy.md` |
-| 学谁 / 大师 / 锚点 | `reference/masters.md` |
+| PMF / 商业模式画布 / Jobs-to-be-Done / 蓝海 / 价值主张/ 商业计划/ 盈利模式 | `reference/frameworks.md` |
+| AARRR / 病毒系数 / 留存 / 北极星指标 / 增长飞轮/ 用户增长/ 获客/ 激活 | `reference/growth.md` |
+| 波特五力 / 护城河 / 定位 / 战略 / 竞争分析/ 竞品/ 差异化/ SWOT | `reference/strategy.md` |
+| 学谁 / 大师 / 锚点 / 商业大师/ 案例分析/ 成功模式 | `reference/masters.md` |

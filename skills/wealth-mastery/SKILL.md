@@ -1,9 +1,9 @@
 ---
 name: wealth-mastery
-description: 钱/投资/股票/基金/ETF/复利/经济周期/资产配置/人生规划时触发。
+description: 财富管理与人生规划的综合指南。当需要理财、投资、股票、基金、ETF、债券、房地产、复利计算、资产配置、经济周期分析、退休规划、税务优化、保险规划、副业/被动收入、财务自由路径、人生阶段财务策略时使用。
 version: 1.0.0
 metadata:
-  author: opencode-skills-cn
+  author: Mike
   tags: wealth finance money investing stock economy life-planning compound-interest
 ---
 
@@ -11,7 +11,7 @@ metadata:
 
 ## 何时触发
 
-关键词命中即触发：钱、金融、投资、股票、基金、ETF、债券、房地产、复利、通胀、经济、资产配置、理财、人生规划、阶段策略、该做什么。
+关键词命中即触发：钱、金融、投资、股票、基金、ETF、债券、房地产、复利、通胀、经济、资产配置、理财、人生规划、阶段策略、该做什么、存钱、赚钱、财务自由、退休、保险。
 
 ## 速记 6 条
 
@@ -35,9 +35,9 @@ metadata:
 
 | 用户说 | 加载 |
 |---|---|
-| 复利 / 风险收益 / 资产类别 / 通胀 / 行为金融 | `reference/fundamentals.md` |
-| 股票 / 基金 / ETF / 资产配置 / 定投 / 估值 | `reference/investing.md` |
-| 经济周期 / 通胀 / 利率 / 货币政策 / 衰退 | `reference/economy.md` |
-| 20-30 / 30-40 / 40-50 / 50-60 / 60+ 阶段策略 | `reference/life-stages.md` |
-| 立即做 / 短期 / 中期 / 长期 / 行动 | `reference/action-plan.md` |
-| 巴菲特 / 芒格 / 达里奥 / 博多 / 霍华德 | `reference/masters.md` |
+| 复利 / 风险收益 / 资产类别 / 通胀 / 行为金融 / 理财基础/ 钱生钱/ 储蓄 | `reference/fundamentals.md` |
+| 股票 / 基金 / ETF / 资产配置 / 定投 / 估值 / 选股/ 投资组合/ 指数 | `reference/investing.md` |
+| 经济周期 / 通胀 / 利率 / 货币政策 / 衰退 / 宏观/ 央行政策/ 市场趋势 | `reference/economy.md` |
+| 20-30 / 30-40 / 40-50 / 50-60 / 60+ 阶段策略 / 年龄/ 人生阶段/ 退休规划 | `reference/life-stages.md` |
+| 立即做 / 短期 / 中期 / 长期 / 行动 / 开始/ 第一步/ 执行计划 | `reference/action-plan.md` |
+| 巴菲特 / 芒格 / 达里奥 / 博多 / 霍华德 / 投资大师/ 成功案例 | `reference/masters.md` |

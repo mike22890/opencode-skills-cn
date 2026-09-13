@@ -2,7 +2,7 @@
 
 ![GitHub stars](https://img.shields.io/github/stars/mike22890/opencode-skills-cn?style=social)
 ![License](https://img.shields.io/github/license/mike22890/opencode-skills-cn)
-![Skills](https://img.shields.io/badge/skills-15-blue)
+![Skills](https://img.shields.io/badge/skills-41-blue)
 ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen)
 
 > 中文优先的 AI Agent Skills 集合——为中文场景优化的触发词 + 15 个领域的方法论。
@@ -112,6 +112,12 @@ skills/<name>/
 ```
 
 **设计原则**：SKILL.md 保持精简（触发时必读），深度内容拆到 reference（按需加载）——token 效率优先。
+
+---
+
+## Changelog
+
+见 [CHANGELOG.md](CHANGELOG.md)
 
 ---
 

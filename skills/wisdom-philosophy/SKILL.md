@@ -1,9 +1,9 @@
 ---
 name: wisdom-philosophy
-description: 哲学/智慧/斯多葛/存在主义/禅/道/儒家/伦理/人生意义时触发。
+description: 哲学智慧与人生反思的综合资源。当需要哲学思考、斯多葛学派、存在主义、禅宗、道家、儒家、佛家、伦理决策、人生意义探索、价值观反思、道德困境分析、冥想/日课、东西方哲学比较、智慧文学、精神成长时使用。
 version: 1.0.0
 metadata:
-  author: opencode-skills-cn
+  author: Mike
   tags: philosophy wisdom stoicism existentialism zen tao confucian ethics meaning
 ---
 
@@ -11,7 +11,7 @@ metadata:
 
 ## 何时触发
 
-关键词命中即触发：哲学、智慧、斯多葛、存在主义、禅、道、儒家、佛家、伦理、反思、人生、意义、价值观、决策困境、道德困境。
+关键词命中即触发：哲学、智慧、斯多葛、存在主义、禅、道、儒家、佛家、伦理、反思、人生、意义、价值观、决策困境、道德困境、冥想、日课、精神成长、心灵、处世、修身。
 
 ## 速记 6 条
 
@@ -35,8 +35,8 @@ metadata:
 
 | 用户说 | 加载 |
 |---|---|
-| 斯多葛 / 存在主义 / 实用主义 | `reference/western.md` |
-| 禅 / 道 / 儒家 / 佛家 / 印度 | `reference/eastern.md` |
-| 伦理 / 决策 / 道德困境 | `reference/ethics.md` |
-| 日课 / 反思 / 冥想 / 行动 | `reference/practice.md` |
-| 学谁 / 大师 / 锚点 | `reference/masters.md` |
+| 斯多葛 / 存在主义 / 实用主义 / 控制二分/ 古希腊/ 罗马哲学/ 尼采/ 加缪 | `reference/western.md` |
+| 禅 / 道 / 儒家 / 佛家 / 印度 / 老子/ 庄子/ 孔子/ 孟子/ 佛教/ 道教 | `reference/eastern.md` |
+| 伦理 / 决策 / 道德困境 / 电车难题/ 是非/ 对错/ 伦理判断/ 两难 | `reference/ethics.md` |
+| 日课 / 反思 / 冥想 / 行动 / 修行/ 静坐/ 正念/ 自我提升/ 实践 | `reference/practice.md` |
+| 学谁 / 大师 / 锚点 / 哲学大师/ 思想家/ 经典 | `reference/masters.md` |

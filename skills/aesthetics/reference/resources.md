@@ -1,3 +1,4 @@
+<!-- 隐式触发：大师案例/灵感/参考/优秀作品/设计趋势/找参考 -->
 # 资源收藏夹（精简版）
 
 - [Awwwards](https://awwwards) 大师级 / [SiteInspire](https://siteinspire.com) 行业过滤 / [Godly](https://godly.website) 极简

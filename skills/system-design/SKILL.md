@@ -1,9 +1,9 @@
 ---
 name: system-design
-description: 系统设计/架构/微服务/数据库/缓存/分布式/CAP/高并发/DevOps 时触发。
+description: 系统架构设计与工程决策的综合指南。当需要设计分布式系统、微服务架构、数据库选型、缓存策略、消息队列、负载均衡、CAP 定理应用、高并发/高可用设计、DevOps/SRE 实践、容器化/K8s 部署、监控告警、架构文档编写时使用。
 version: 1.0.0
 metadata:
-  author: opencode-skills-cn
+  author: Mike
   tags: system-design architecture microservices distributed devops sre scalability
 ---
 
@@ -11,7 +11,7 @@ metadata:
 
 ## 何时触发
 
-关键词命中即触发：系统设计、架构、微服务、数据库、缓存、队列、负载均衡、分布式、高并发、高可用、DevOps、SRE、可观测性、监控、部署、K8s、容器、扩展、一致性、CAP、BASE。
+关键词命中即触发：系统设计、架构、微服务、数据库、缓存、队列、负载均衡、分布式、高并发、高可用、DevOps、SRE、可观测性、监控、部署、K8s、容器、扩展、一致性、CAP、BASE、伸缩、扩容。
 
 ## 速记 6 条
 
@@ -36,7 +36,7 @@ metadata:
 
 | 用户说 | 加载 |
 |---|---|
-| CAP / BASE / 一致性 / 分区 / 复制 | `reference/principles.md` |
-| 微服务 / 事件驱动 / CQRS / Saga / 限流 | `reference/patterns.md` |
-| 缓存 / 队列 / 数据库 / CDN / 监控 | `reference/scale.md` |
-| 学谁 / 大师 / 锚点 | `reference/masters.md` |
+| CAP / BASE / 一致性 / 分区 / 复制 / 分布式理论/ 共识算法/ Paxos/ Raft | `reference/principles.md` |
+| 微服务 / 事件驱动 / CQRS / Saga / 限流 / 架构模式/ 服务拆分/ 解耦 | `reference/patterns.md` |
+| 缓存 / 队列 / 数据库 / CDN / 监控 / 性能优化/ 扩展/ 伸缩/ 高并发 | `reference/scale.md` |
+| 学谁 / 大师 / 锚点 / 架构大师/ 案例参考 | `reference/masters.md` |

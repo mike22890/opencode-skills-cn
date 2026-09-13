@@ -1,9 +1,9 @@
 ---
 name: persuasion-craft
-description: 表达/说服/演讲/讲故事/影响力/谈判/销售/TED/路演时触发。
+description: 表达说服与影响力的综合技巧。当需要演讲、讲故事、谈判、销售、营销文案、影响力、公众表达、Pitch、路演、TED 演讲、说服策略、沟通技巧、领导力表达、激励团队、危机公关、媒体应对时使用。
 version: 1.0.0
 metadata:
-  author: opencode-skills-cn
+  author: Mike
   tags: persuasion storytelling influence negotiation sales ted pitch
 ---
 
@@ -11,7 +11,7 @@ metadata:
 
 ## 何时触发
 
-关键词命中即触发：表达、说服、演讲、讲故事、影响力、谈判、销售、文案、TED、演示、推介、路演、pitch、引导、影响。
+关键词命中即触发：表达、说服、演讲、讲故事、影响力、谈判、销售、文案、TED、演示、推介、路演、pitch、引导、影响、激励、公关、沟通、劝服、改变想法。
 
 ## 速记 6 条
 
@@ -35,7 +35,7 @@ metadata:
 
 | 用户说 | 加载 |
 |---|---|
-| 讲故事 / Pixar / 英雄之旅 / Hook | `reference/storytelling.md` |
-| 影响力 / Cialdini / 互惠 / 稀缺 | `reference/influence.md` |
-| 谈判 / Voss / 镜像 / 校准问题 | `reference/negotiation.md` |
-| 学谁 / 大师 / 锚点 | `reference/masters.md` |
+| 讲故事 / Pixar / 英雄之旅 / Hook / 情节设计/ 叙事结构/ 故事框架/ 情感共鸣 | `reference/storytelling.md` |
+| 影响力 / Cialdini / 互惠 / 稀缺 / 说服技巧/ 心理操纵（合法）/ 引导/ 改变态度 | `reference/influence.md` |
+| 谈判 / Voss / 镜像 / 校准问题 / 讨价还价/ 妥协/ 协商/ 冲突解决 | `reference/negotiation.md` |
+| 学谁 / 大师 / 锚点 / 风格模仿/ 演讲技巧/ TED风格 | `reference/masters.md` |

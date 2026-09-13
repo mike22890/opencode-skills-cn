@@ -1,3 +1,4 @@
+<!-- 隐式触发：PMF/商业模式画布/Jobs-to-be-Done/蓝海/价值主张/商业计划 -->
 # 产品/商业框架（精简版）
 
 ## PMF（Product-Market Fit）

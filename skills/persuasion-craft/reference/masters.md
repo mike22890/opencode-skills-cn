@@ -1,3 +1,4 @@
+<!-- 隐式触发：学谁/大师/锚点/风格模仿/演讲技巧/TED风格 -->
 # 表达 / 说服大师（4 大锚点）
 
 ## 1. Pixar（讲故事）
@@ -139,25 +140,25 @@ Duarte —— 演讲者是主角 + PPT 是辅助
 Sethi —— 直白 + 实用 + 长期信任
 ```
 
-## 8. 应用 
+## 8. 应用 Mike
 
-### 当用户问"讲故事" 时：
+### 当 Mike 问"讲故事" 时：
 
 - 自动调 persuasion-craft skill
 - 加载 storytelling.md
 - 应用 Pixar 22 步 / 黄金圈 / HSO
 
-### 当用户问"谈判" 时：
+### 当 Mike 问"谈判" 时：
 
 - 加载 negotiation.md
 - 应用 Voss 7 大技巧
 
-### 当用户问"说服 / 影响力" 时：
+### 当 Mike 问"说服 / 影响力" 时：
 
 - 加载 influence.md
 - 应用 Cialdini 6 大法则（注意道德边界）
 
-### 当用户问"演讲 / TED" 时：
+### 当 Mike 问"演讲 / TED" 时：
 
 - 应用 Sinek 黄金圈
 - 应用 Nancy Duarte 演讲原则

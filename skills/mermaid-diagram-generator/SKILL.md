@@ -1,13 +1,18 @@
 ---
 name: mermaid-diagram-generator
-description: 自动把文本描述转成 mermaid 图表代码（流程图/时序图/类图/状态图/ER图/甘特图）。当用户描述系统、流程、关系、状态、数据库 schema 时使用。
+description: 从自然语言描述生成 Mermaid 图表代码。当需要画流程图、时序图、类图、状态图、ER 图、甘特图、思维导图、架构图、Git 图、饼图、用户旅程图、系统交互图、数据库关系图、可视化任何流程或结构时使用。
 version: 1.0.0
 metadata:
-  author: opencode-skills-cn
+  author: Mike
   tags: documentation diagram visualization mermaid
 ---
 
 # Mermaid Diagram Generator
+
+## 何时触发
+
+关键词命中即触发：流程图/时序图/类图/状态图/ER图/甘特图/思维导图/架构图/可视化/画图。
+
 
 把自然语言描述自动转成 mermaid 代码块。
 

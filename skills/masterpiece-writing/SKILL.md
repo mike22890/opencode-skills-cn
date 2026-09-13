@@ -1,9 +1,9 @@
 ---
 name: masterpiece-writing
-description: 任何"给人看"的文档/文字产出的排版审美：README/设计文档/ADR/计划/报告/教程/blog/API 文档/邮件/提案/说明/手册/白皮书。任务涉及写文档/报告/README/教程/计划时必用。包含排版铁律 + 大师参考 + 反 AI 腔清单 + 节奏规则。
+description: 专业文档的排版与内容审美。当需要写 README、设计文档、ADR、技术方案、API 文档、产品文档、报告、白皮书、教程、博客、邮件、任何"给人看"的文字内容时使用。关注结构清晰、排版美观、信息密度、阅读体验、反 AI 味。
 version: 1.0.0
 metadata:
-  author: opencode-skills-cn
+  author: Mike
   tags: writing aesthetics typography master-craft
 ---
 
@@ -145,3 +145,12 @@ That's it."
 4. 有 AI 味就改到没
 
 **写文档的最高标准**：发出去后，读者不知道是 AI 写的。
+
+## 加载 reference（按需加载）
+
+| 用户说 | 加载 |
+|---|---|
+| 排版/结构/层级/段落/表格/列表/视觉节奏/格式规范 | 本 skill 正文（排版铁律+节奏规则） |
+| AI腔/机器味/去AI/扫腔/人话/口语化/自然 | avoid-ai-writing skill |
+| 配色/字体/UI/视觉/设计/美观/界面 | aesthetics skill |
+| 参考大师/风格/节奏/简洁/直接 | 本 skill 大师参考表（Anthony Fu / Julia Evans / Stripe 等） |

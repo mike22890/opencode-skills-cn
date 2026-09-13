@@ -1,9 +1,9 @@
 ---
 name: aesthetics
-description: 任何"给人看"的产出：UI/界面/前端/配色/字体/Logo/动效/排版/PPT/海报/文档/简历/图表时必用。
+description: 视觉审美与设计的综合指南。当任务涉及 UI、界面、前端、配色、字体、Logo、图标、动效、阴影、圆角、留白、间距、网格、排版、PPT、演示文稿、海报、名片、邀请函、简历、毕设、报告、文档、图片、Banner、社交媒体图、数据可视化、信息图表、流程图、品牌设计、网页设计、App 设计、Dashboard、Landing Page、印刷品、任何"给人看"的产出时使用。
 version: 3.0.0
 metadata:
-  author: opencode-skills-cn
+  author: Mike
   tags: ui design aesthetics typography color palette grid master-craft anti-ai material tailwind shadcn print pdf cv resume poster banner social-media ppt slidev typst latex
 ---
 
@@ -11,7 +11,7 @@ metadata:
 
 ## 何时触发（看到就调本 skill）
 
-关键词命中即触发：UI、配色、字体、PPT、Slidev、shadcn、Material、Antd、Tailwind、Logo、图标、动效、阴影、圆角、留白、网格、排版、设计、简历、毕设、PPT、海报、名片、邀请函、小红书、IG、LinkedIn、邮件、Logo、图表、流程图、UX。
+关键词命中即触发：UI、配色、字体、PPT、Slidev、shadcn、Material、Antd、Tailwind、Logo、图标、动效、阴影、圆角、留白、网格、排版、设计、简历、毕设、PPT、海报、名片、邀请函、小红书、IG、LinkedIn、邮件、Logo、图表、流程图、UX、好看、丑、美化、高级感、质感。
 
 ## 速记 6 条
 
@@ -34,16 +34,14 @@ metadata:
 
 ## 加载 reference（按场景只加载 1 个）
 
-`reference/` 目录 6 个文件，按场景精准加载：
-
 | 用户说 | 加载 reference 文件 |
 |---|---|
-| 写代码 UI / 前端 / 组件 / 仪表盘 | `reference/ui.md` |
-| 选配色 / 字体 / 设计原则 | `reference/design.md` |
-| 简历 / 毕设 / 报告 / 海报 / 名片 / 邀请函 / PPT | `reference/print.md` |
-| 小红书 / Instagram / X / LinkedIn / 邮件 | `reference/social.md` |
-| 图表 / 流程图 / Logo / 数据可视化 / 落地页 | `reference/data.md` |
-| 找大师案例参考 | `reference/resources.md` |
+| 写代码 UI / 前端 / 组件 / 仪表盘 / 页面/ 网页/ 应用界面/ 组件库 | `reference/ui.md` |
+| 选配色 / 字体 / 设计原则 / 颜色/ 字体搭配/ 视觉规范/ 设计系统 | `reference/design.md` |
+| 简历 / 毕设 / 报告 / 海报 / 名片 / 邀请函 / PPT / 打印/ 出版物/ 作品 | `reference/print.md` |
+| 小红书 / Instagram / X / LinkedIn / 邮件 / 社交媒体/ 配图/ 封面/ 营销图 | `reference/social.md` |
+| 图表 / 流程图 / Logo / 数据可视化 / 落地页 / 信息图/ 图标/ 插画 | `reference/data.md` |
+| 找大师案例参考 / 灵感/ 参考/ 优秀作品/ 设计趋势 | `reference/resources.md` |
 
 通用反 AI 味 10 条 + 速记卡 → `reference/README.md`（所有场景共享）
 
